@@ -1,0 +1,94 @@
+html,body{
+    background-image: url('mylove.jpg');
+    opacity:.85;
+    background-attachment: auto;
+    background-size: 100%
+    
+}
+
+  
+ 
+
+header{
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: black;
+
+}
+
+
+profile picture {
+    height: 100%; 
+    width: 100%;
+flex: 2;
+
+}
+
+img{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    }
+
+#row2{
+    flex: 2;
+}
+
+
+
+#container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr
+    
+
+}
+
+    
+
+ #col1 { 
+    width: 100px;
+    height: 100px;
+    color: azure;
+    
+}
+
+#col2outer{
+    width: 33.33px;
+    height: 20px;
+    color: azure;
+
+}
+ #col2mid{
+    width: 33.33px;
+    height: 20px;
+    color: azure;
+}
+
+#col2side{
+    width: 33.33px;
+    height: 20px;
+    color: azure;
+
+
+}
+       
+
+
+#LinkedIn 
+
+    img{
+        color: azure;
+        height: 25%;
+        width: 25%;
+        
+    }
+    
+
